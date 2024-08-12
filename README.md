@@ -1,5 +1,7 @@
 一、目标
+
 设计一种基于阿里云IOT的自动灌溉系统，该系统可以通过手机APP远程设置灌溉相关的配置参数，参数通过云端下发控制设备端行为，设备端也可以实时上传传感器数据用于监测系统状态。
+
 二、端侧
 1.端侧系统组成
 <img width="1120" alt="image" src="https://github.com/user-attachments/assets/51a5099a-0d05-4093-8c7e-fdf8855a2aca">
