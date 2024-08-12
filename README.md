@@ -9,7 +9,15 @@
 
 2.关键物料
 
-3.组装调试
+3.编译环境
+
+1)采用Arduino IDE2.3.2及以上版本，打开Arduino IDE，按照https://wiki.dfrobot.com.cn/_SKU_DFR0478_FireBeetle_Board_ESP32%E4%B8%BB%E6%9D%BF%E6%8E%A7%E5%88%B6%E5%99%A8V4_0，步骤设置IDE，并安装板卡对应的支持库。
+
+2)安装OneWire、Seeed_Arduino_mbedtls、DallasTemprature库
+
+3)下载Lib.zip，解压到C:\Users\xxx\Documents\Arduino\libraries内
+
+4.组装调试
 
 
 三、平台侧
