@@ -9,6 +9,8 @@
 
 2.关键物料
 
+待更新。。。
+
 3.编译环境
 
 1)采用Arduino IDE2.3.2及以上版本，打开Arduino IDE，按照https://wiki.dfrobot.com.cn/_SKU_DFR0478_FireBeetle_Board_ESP32%E4%B8%BB%E6%9D%BF%E6%8E%A7%E5%88%B6%E5%99%A8V4_0，步骤设置IDE，并安装板卡对应的支持库。
@@ -19,10 +21,11 @@
 
 4.结构设计
 
-
+待更新。。。
 
 5.组装调试
 
+待更新。。。
 
 三、平台侧
 
