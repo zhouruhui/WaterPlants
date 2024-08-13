@@ -21,7 +21,7 @@
 
 4.结构设计
 
-![image](https://github.com/user-attachments/assets/01b702f6-57b6-4f79-93a7-20f70a20f948)
+![image](https://github.com/user-attachments/assets/3f880034-f595-41cb-bfbf-3c1c0adea0ba)
 
 
 5.组装调试
