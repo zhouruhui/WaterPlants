@@ -41,7 +41,7 @@
 
 4.结构设计
 
-![image](https://github.com/user-attachments/assets/3f880034-f595-41cb-bfbf-3c1c0adea0ba)
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/3f880034-f595-41cb-bfbf-3c1c0adea0ba">
 
 
 5.组装调试
@@ -51,7 +51,7 @@
 三、平台侧
 
 1.物模型
-<img width="1228" alt="image" src="https://github.com/user-attachments/assets/fd6bd7c5-5a11-4b54-a932-b3f972ae7c23">
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/fd6bd7c5-5a11-4b54-a932-b3f972ae7c23">
 
 四、坑点
 
