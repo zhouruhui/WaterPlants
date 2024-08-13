@@ -21,7 +21,8 @@
 
 4.结构设计
 
-待更新。。。
+![image](https://github.com/user-attachments/assets/01b702f6-57b6-4f79-93a7-20f70a20f948)
+
 
 5.组装调试
 
