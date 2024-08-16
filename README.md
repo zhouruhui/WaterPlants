@@ -54,9 +54,9 @@
 
 3）水管按照需要的长度和位置挖孔，保证水流能够顺利灌溉到相应的花盆里。
 
-<img width="1120" alt="image" src="https://github.com/user-attachments/assets/76204526-73da-4af2-9725-67297c27e19d>
-<img width="1120" alt="image" src="https://github.com/user-attachments/assets/5b3d90ee-2f2e-4ad2-8052-c0df2edf853c>
-<img width="1120" alt="image" src="https://github.com/user-attachments/assets/ae14b831-511b-4b18-9bfc-47825f918c67>
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/76204526-73da-4af2-9725-67297c27e19d">
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/5b3d90ee-2f2e-4ad2-8052-c0df2edf853c">
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/ae14b831-511b-4b18-9bfc-47825f918c67">
 
 三、平台侧
 
