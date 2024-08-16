@@ -48,7 +48,15 @@
 
 5.组装调试
 
-待更新。。。
+1)物料齐套之后，先根据需要，把所有线缆改造到需要的长度，按照上述框图接线。
+
+2）在程序中配置相应的管脚，编译下载调试外围接口。
+
+3）水管按照需要的长度和位置挖孔，保证水流能够顺利灌溉到相应的花盆里。
+
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/76204526-73da-4af2-9725-67297c27e19d>
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/5b3d90ee-2f2e-4ad2-8052-c0df2edf853c>
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/ae14b831-511b-4b18-9bfc-47825f918c67>
 
 三、平台侧
 
@@ -78,3 +86,5 @@
 1.租用一个云主机，基于MQTT代理重新实现云端应用，降低对特定云平台架构的依赖。
 
 2.设计一个转接板，方便电源板、主控板、传感器、电池等部件相互连接，减少内部飞线。
+
+3.这是第一个Demo版本，文档不够详尽，后续第二个版本再细化。
