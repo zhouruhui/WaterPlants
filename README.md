@@ -5,6 +5,7 @@
 二、端侧
 
 1.端侧系统组成
+
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/51a5099a-0d05-4093-8c7e-fdf8855a2aca">
 
 2.关键物料
@@ -61,9 +62,11 @@
 三、平台侧
 
 1.物模型
+
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/fd6bd7c5-5a11-4b54-a932-b3f972ae7c23">
 
 2.调试控制台
+
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/7d366314-28a7-42c2-8428-051546e12f66">
 
 
