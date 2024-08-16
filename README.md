@@ -5,7 +5,7 @@
 二、端侧
 
 1.端侧系统组成
-<img width="1120" alt="image" src="https://github.com/user-attachments/assets/51a5099a-0d05-4093-8c7e-fdf8855a2aca">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/51a5099a-0d05-4093-8c7e-fdf8855a2aca">
 
 2.关键物料
 
@@ -43,7 +43,7 @@
 
 4.结构设计
 
-<img width="1120" alt="image" src="https://github.com/user-attachments/assets/3f880034-f595-41cb-bfbf-3c1c0adea0ba">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/3f880034-f595-41cb-bfbf-3c1c0adea0ba">
 
 
 5.组装调试
@@ -54,17 +54,17 @@
 
 3）水管按照需要的长度和位置挖孔，保证水流能够顺利灌溉到相应的花盆里。
 
-<img width="1120" alt="image" src="https://github.com/user-attachments/assets/76204526-73da-4af2-9725-67297c27e19d">
-<img width="1120" alt="image" src="https://github.com/user-attachments/assets/5b3d90ee-2f2e-4ad2-8052-c0df2edf853c">
-<img width="1120" alt="image" src="https://github.com/user-attachments/assets/ae14b831-511b-4b18-9bfc-47825f918c67">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/76204526-73da-4af2-9725-67297c27e19d">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/5b3d90ee-2f2e-4ad2-8052-c0df2edf853c">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/ae14b831-511b-4b18-9bfc-47825f918c67">
 
 三、平台侧
 
 1.物模型
-<img width="1120" alt="image" src="https://github.com/user-attachments/assets/fd6bd7c5-5a11-4b54-a932-b3f972ae7c23">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/fd6bd7c5-5a11-4b54-a932-b3f972ae7c23">
 
 2.调试控制台
-<img width="1120" alt="image" src="https://github.com/user-attachments/assets/7d366314-28a7-42c2-8428-051546e12f66">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/7d366314-28a7-42c2-8428-051546e12f66">
 
 
 四、坑点
@@ -87,4 +87,4 @@
 
 2.设计一个转接板，方便电源板、主控板、传感器、电池等部件相互连接，减少内部飞线。
 
-3.这是第一个Demo版本，文档不够详尽，后续第二个版本再细化。
+3.这是第一个Demo版本，文档不够详尽，只是记录大概，第二个版本再改进。
