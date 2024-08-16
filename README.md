@@ -55,6 +55,10 @@
 1.物模型
 <img width="1120" alt="image" src="https://github.com/user-attachments/assets/fd6bd7c5-5a11-4b54-a932-b3f972ae7c23">
 
+2.调试控制台
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/7d366314-28a7-42c2-8428-051546e12f66">
+
+
 四、坑点
 
 1.Windows平台，Arduino的库是放在C:\Users\xxx\Documents\Arduino\libraries内，下载解压到这个目录就可以。
