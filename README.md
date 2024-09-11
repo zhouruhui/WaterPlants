@@ -6,7 +6,7 @@
 
 1.端侧系统组成
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/51a5099a-0d05-4093-8c7e-fdf8855a2aca">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/07c0c4a1-7d05-4873-8850-d160fb51e99d">
 
 2.关键物料
 
