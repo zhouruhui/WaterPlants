@@ -24,7 +24,7 @@
 
 3.编译环境
 
-1)采用Arduino IDE2.3.2及以上版本，打开Arduino IDE，按照https://wiki.dfrobot.com.cn/_SKU_DFR0478_FireBeetle_Board_ESP32%E4%B8%BB%E6%9D%BF%E6%8E%A7%E5%88%B6%E5%99%A8V4_0，步骤设置IDE，并安装板卡对应的支持库。
+1)采用Arduino IDE2.3.2及以上版本，打开Arduino IDE，按照<a href="https://wiki.dfrobot.com.cn/_SKU_DFR0478_FireBeetle_Board_ESP32%E4%B8%BB%E6%9D%BF%E6%8E%A7%E5%88%B6%E5%99%A8V4_0">步骤</a>设置IDE，并安装板卡对应的支持库。
 
 2)安装OneWire、Seeed_Arduino_mbedtls、DallasTemprature库
 
@@ -40,7 +40,7 @@
 
 2）在程序中配置相应的管脚，编译下载调试外围接口。
 
-3）水管按照需要的长度和位置挖孔，保证水流能够顺利灌溉到相应的花盆里。
+3）水管按照需要的长度和位置修剪，保证水流能够顺利灌溉到相应的花盆里。
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/76204526-73da-4af2-9725-67297c27e19d">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/5b3d90ee-2f2e-4ad2-8052-c0df2edf853c">
