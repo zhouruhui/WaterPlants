@@ -10,7 +10,8 @@
 
 2.关键物料
 
-1)主板：https://wiki.dfrobot.com.cn/_SKU_DFR0478_FireBeetle_Board_ESP32%E4%B8%BB%E6%9D%BF%E6%8E%A7%E5%88%B6%E5%99%A8V4_0
+1)<a href="https://wiki.dfrobot.com.cn/_SKU_DFR0478_FireBeetle_Board_ESP32%E4%B8%BB%E6%9D%BF%E6%8E%A7%E5%88%B6%E5%99%A8V4_0">主板</a>
+主板：https://wiki.dfrobot.com.cn/_SKU_DFR0478_FireBeetle_Board_ESP32%E4%B8%BB%E6%9D%BF%E6%8E%A7%E5%88%B6%E5%99%A8V4_0
 
 2)动态功率点跟踪电源板：https://wiki.dfrobot.com.cn/_SKU_DFR0580_Solar_Power_Manager_For_12V_Lead-Acid_Battery_%E5%A4%AA%E9%98%B3%E8%83%BD%E7%94%B5%E6%BA%90%E7%AE%A1%E7%90%86%E6%A8%A1%E5%9D%97_12V%E8%93%84%E7%94%B5%E6%B1%A0%E7%89%88_
 
