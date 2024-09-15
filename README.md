@@ -44,17 +44,16 @@
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/76204526-73da-4af2-9725-67297c27e19d">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/5b3d90ee-2f2e-4ad2-8052-c0df2edf853c">
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/ae14b831-511b-4b18-9bfc-47825f918c67">
 
 <h3>三、平台侧</h3>
 
 1.物模型
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/fd6bd7c5-5a11-4b54-a932-b3f972ae7c23">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/03af091d-ebe4-4a6d-9560-06a97abed4ea">
 
 2.调试控制台
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/7d366314-28a7-42c2-8428-051546e12f66">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/e73c64cc-6a68-4ee1-83c4-80d95161b516">
 
 <h3>四、坑点</h3>
 
