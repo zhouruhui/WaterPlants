@@ -32,7 +32,7 @@
 
 4.结构设计
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/3f880034-f595-41cb-bfbf-3c1c0adea0ba">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/3cc01f40-142f-4e2f-8d4c-23231d9cdfa6">
 
 5.组装调试
 
